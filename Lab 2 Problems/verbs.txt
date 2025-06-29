@@ -1,0 +1,4 @@
+runs
+jumps
+sleeps
+eats
